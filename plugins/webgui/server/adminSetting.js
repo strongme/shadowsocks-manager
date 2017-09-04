@@ -31,7 +31,7 @@ setDefaultValue('account', {
   }
 });
 setDefaultValue('base', {
-  title: 'Shadowsocks-Manager',
+  title: '番羽土啬',
   themeAccent: 'pink',
   themePrimary: 'blue',
   serviceWorker: false,
@@ -53,14 +53,14 @@ setDefaultValue('payment', {
     flow: 30000,
   },
   month: {
-    alipay: 9.99,
+    alipay: 10,
     paypal: 0,
     flow: 100000,
   },
   season: {
-    alipay: 26.99,
+    alipay: 28,
     paypal: 0,
-    flow: 100000,
+    flow: 3072,
   },
   year: {
     alipay: 99.99,
